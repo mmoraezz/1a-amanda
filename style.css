@@ -3,6 +3,7 @@ body {
     background: pink;
     margin: 0px;
     font-family: "DynaPuff", system-ui;
+    margin-bottom: 100px;
 }
 
 header {
@@ -44,6 +45,7 @@ img {
     .categoria { 
         padding-left: 40px;
         padding-right: 40px;
+        margin-top: 50px;
     }
 
     .categoria-videos img {
