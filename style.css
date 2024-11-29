@@ -45,3 +45,7 @@ img {
         padding-left: 40px;
         padding-right: 40px;
     }
+
+    .categoria-videos img {
+        opacity: 0,5;
+    }
