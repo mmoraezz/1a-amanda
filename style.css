@@ -54,3 +54,7 @@ img {
         opacity: 1.0;
         border: 1px solid green;
     }
+
+    .categoria h2 {
+        color: rgb(223, 124, 137);
+    }
